@@ -15,8 +15,8 @@ Basically this is an application built in *XCODE* & *SWIFT* for *iPad, iOS 14 & 
 
 **Built for**
 
-iOS 14 & above
-iPad
+- iOS 14 & above
+- iPad
 
 **How it works?**
 
