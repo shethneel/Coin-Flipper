@@ -6,8 +6,8 @@ Basically this is an application built in *XCODE* & *SWIFT* for *iPad, iOS 14 & 
 
 **Technology used**
 
-*Swift*
-*XCODE* [ IDE ]
+- *Swift*
+- *XCODE* [ IDE ]
 
 **Site to create App Icon & Image sets**
 
